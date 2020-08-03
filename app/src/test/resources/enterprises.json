@@ -1,0 +1,1904 @@
+{
+  "enterprises": [
+    {
+      "id": 1,
+      "email_enterprise": "",
+      "facebook": "",
+      "twitter": "",
+      "linkedin": "",
+      "phone": "",
+      "own_enterprise": false,
+      "enterprise_name": "AllRide",
+      "photo": "/uploads/enterprise/photo/1/wood_trees_gloomy_fog_haze_darkness_50175_1920x1080.jpg",
+      "description": "Urbanatika is a socio-environmental company with economic impact, creator of the agro-urban industry. We want to involve people in the processes of healthy eating, recycling and reuse of organic waste and the creation of citizen green areas. With this we are creating smarter cities from the people and at the same time the forest city.  Urbanatika, Agro-Urban Industry",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 2,
+      "email_enterprise": "",
+      "facebook": "",
+      "twitter": "",
+      "linkedin": "",
+      "phone": "",
+      "own_enterprise": false,
+      "enterprise_name": "Alpaca Samka SpA",
+      "photo": "/uploads/enterprise/photo/2/WhatsApp_Image_2017-10-31_at_13.47.22.jpeg",
+      "description": "Alpaca Samka uses alpaca fibres for our “Slow Fashion Project” in association with the Aymaras of the Chilean Andes, producing sustainable luxury accessories and garments using traditional Andean methods and British weaving patterns. We are part of the Inward Investment Program and have been recognised by international organisations. ",
+      "city": "Viña del Mar",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 7,
+        "enterprise_type_name": "Fashion"
+      }
+    },
+    {
+      "id": 3,
+      "email_enterprise": "",
+      "facebook": "",
+      "twitter": "",
+      "linkedin": "",
+      "phone": "",
+      "own_enterprise": false,
+      "enterprise_name": "AnewLytics SpA",
+      "photo": "/uploads/enterprise/photo/3/thumb_8016a7d8a952351f3cb4d5f485f43ea1.octet-stream",
+      "description": " We have one passion: to create value for our customers by analyzing the conversations their customers have with the Contact Center in order to extract valuable and timely information to understand and meet their needs. That´s how AnewLytics was born: a cloud-based analytics service platform that performs 100% automated analysis.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 18,
+        "enterprise_type_name": "Service"
+      }
+    },
+    {
+      "id": 4,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "AQM S.A.",
+      "photo": null,
+      "description": "Cold Killer was discovered by chance in the ´90 s and developed by Mrs. Inés Artozon Sylvester while she was 70 years old. Ending in a U.S. patent granted and a new company, AQM S.A. Diluted in water and applied to any vegetable leaves, stimulate increase glucose (sugar) up to 30% therefore help plants resists cold weather. ",
+      "city": "Maule",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 1,
+        "enterprise_type_name": "Agro"
+      }
+    },
+    {
+      "id": 5,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Árbol Sabores",
+      "photo": null,
+      "description": "We are Arbol Sabores, a new generation of healthy food that has a positive impact in the environment and society. We want to change the world through the feeding behaviors of the society, giving seeds of urban orchards in ours products and by innovating with biodegradable packing.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 11,
+        "enterprise_type_name": "Health"
+      }
+    },
+    {
+      "id": 6,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "ArchDaily",
+      "photo": null,
+      "description": "Our mission is to improve the quality of life of the next 3 billion people living in cities by 2050, providing inspiration, knowledge, and tools to the architects who fill face this challenge.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 14,
+        "enterprise_type_name": "Media"
+      }
+    },
+    {
+      "id": 7,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Aveeza",
+      "photo": null,
+      "description": "Aveeza is an intelligent platform specially developed for managing school transportation, anywhere. From real time ridership status, route optimisation, fleet maintenance to driver management, Aveeza brings world class logistics to school transportation, so the world’s most precious cargo, children, can be monitored in full transparency that the industry finally deserves.",
+      "city": "Providencia",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 24,
+        "enterprise_type_name": "Transport"
+      }
+    },
+    {
+      "id": 8,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "BREAL ESTATE SPA",
+      "photo": null,
+      "description": "Breal Estate is a Chilean company established in 2013, which, in a strategic alliance with Salesforce.com, initially developed an application for property management. Currently, BReal is an application that incorporates all the functions necessary to manage different processes of the real estate business: property management , sales, leases, common expenses and projects with the best practices in mind. It is delivered as a service (SaaS) and accessed via Internet from any device.",
+      "city": "SANTIAGO",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 17,
+        "enterprise_type_name": "Real Estate"
+      }
+    },
+    {
+      "id": 9,
+      "email_enterprise": "",
+      "facebook": "",
+      "twitter": "",
+      "linkedin": "",
+      "phone": "",
+      "own_enterprise": false,
+      "enterprise_name": "Capitalizarme.com",
+      "photo": "/uploads/enterprise/photo/9/cruzeiro.png",
+      "description": "We are a intermediary between developers in real estate and small investors who want to get good investment opportunities.  ",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 17,
+        "enterprise_type_name": "Real Estate"
+      }
+    },
+    {
+      "id": 10,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Capta Hydro",
+      "photo": null,
+      "description": "Capta Hydro is a clean energy technology startup that develops and commercialises hydropower technology for generation in artificial canals without the need of falls, that are economically competitive to other distributed generation alternatives and electric utility tariffs. Our BHAG is to install 1 GW of our technology  by 2027.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 4,
+        "enterprise_type_name": "Eco"
+      }
+    },
+    {
+      "id": 13,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "ClicEduca",
+      "photo": null,
+      "description": "ClicEduca - Intesis is a technology development company for education.  Our multidisciplinary team works on RESEARCH AND DEVELOPMENT which has resulted in technological innovations available in educational institutions such as ClicEduca.com cloud and our star product, MusíGlota.  Our know-how philosophy is our base and driving force to develop high educational technology, enhancing teaching and learning processes with innovative solutions for teachers, students, administrators and family today. ",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 22,
+        "enterprise_type_name": "Technology"
+      }
+    },
+    {
+      "id": 14,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "CO2fine spa (egreen.green)",
+      "photo": null,
+      "description": "The business of changing the world into a green one is not an easy task. eGreen believes that by making things easy for users, the growth and impact of an environmentally friendly society can be greatly accelerated. eGreen's technology allows users to both calculate and offset their carbon footprint simply and free.  ",
+      "city": "Providencia",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 4,
+        "enterprise_type_name": "Eco"
+      }
+    },
+    {
+      "id": 15,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Coinaction",
+      "photo": null,
+      "description": "Coinaction provides worldwide cheaper currency exchange. ",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 8,
+        "enterprise_type_name": "Fintech"
+      }
+    },
+    {
+      "id": 17,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Dathom.com",
+      "photo": null,
+      "description": "We started in 2015 a project that proposed to increase the quality of service of property brokers, but we realized that the market is flawed, bad practices, charges that are not justified, harm the clients, from this we develop a solution Which will move away from the current model and simplify the connection between a bidder and a plaintiff, develop an online collaborative market to market properties, allow all users to earn money by sharing links with an individualized offer on their social networks.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 17,
+        "enterprise_type_name": "Real Estate"
+      }
+    },
+    {
+      "id": 18,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Diagnochip SpA",
+      "photo": null,
+      "description": "The Rapid  Antibiotic Sensitivty Kit  developed by Diagnochip allows  people having a urinary tract infection to receive the results of the proper antibiotic to use in only 8 hours versus the 3 to 4 days required by the traditional methodology.  Our kit has a big social impact as close the gap in the access to medical care for vulnerable people living in developing countries  and rural areas merging accuracity of the results with cost - efficiency.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 3,
+        "enterprise_type_name": "Biotech"
+      }
+    },
+    {
+      "id": 19,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Fanclapp SpA",
+      "photo": null,
+      "description": "A platform dedicated to generated live content, allowing media, brands, agencies and events, acquire, manage and publish live-videos-streaming directly transmitted by fans themselves, at the time and where the action happens, given you the possibility and experience to live events from different points of view as many fans are transmitting",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 22,
+        "enterprise_type_name": "Technology"
+      }
+    },
+    {
+      "id": 20,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Fixthe System SPA",
+      "photo": null,
+      "description": "Bicicla, the smartest, cleanest and easiest way to recycle, the revolutionary recycle that change minds and behaviors based on citizens collaboration. We do see a shining future to our world.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 19,
+        "enterprise_type_name": "Smart City"
+      }
+    },
+    {
+      "id": 21,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "frutnutspa",
+      "photo": null,
+      "description": "We are a R&D company , We are asociate with big manufacturer Company to test technology and domestic market acceptance . We are giving entrepreneurs services to acomplish goals in getting new products under quality certification and HACCP standards .We can give the scientific research to new food products under healthy and nutritional standards caring enviroment (sostain and recycling ), social and human rights and fairtrade standards . Our goal is having a ideas trade tank giving them chances and yield to allow any people invest in them t support their success.",
+      "city": "Villa alemana",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 9,
+        "enterprise_type_name": "Food"
+      }
+    },
+    {
+      "id": 22,
+      "email_enterprise": "",
+      "facebook": "",
+      "twitter": "",
+      "linkedin": "",
+      "phone": "",
+      "own_enterprise": false,
+      "enterprise_name": "Green Equitable",
+      "photo": "/uploads/enterprise/photo/22/diversas-imagens-fofas-50.jpg",
+      "description": "green equitable is a community (franchise) of  restaurants, stores and markets where regular  and conscious people can choose top healthy,  local, organic and fair trade products while  preserving the environment. ",
+      "city": "Las Condes",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 9,
+        "enterprise_type_name": "Food"
+      }
+    },
+    {
+      "id": 23,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "HoliPlay Games",
+      "photo": null,
+      "description": "HoliPlay Games is proud to present HoliMaths X, award winning family math games. A must have tool for families that understand how effective learning through playing can be.   Hi! I'm Matt from Holiplay Games!  HoliMaths X - a new family math strategy card game  We have an award winning game with 20+ outstanding reviews done by the most prominent Homeschoolers from the IHSNET network and other Parenting bloggers, communities and websites. It is the winner of the Academics' Choice Awards 2016 Winner! Brain Toy category. \nehind due to all the technology that surrounds us.\n",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 6,
+        "enterprise_type_name": "Education"
+      }
+    },
+    {
+      "id": 24,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "IMOVA",
+      "photo": null,
+      "description": "Experiencias de aprendizaje en realidad virtual; móviles, inmersivas y evolutivas",
+      "city": "Vitacura",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 25,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "jppy SPA",
+      "photo": null,
+      "description": "It is a guide to activities, tips and data, based on geolocation and user profile, structure the information so that the user can see the options and make a fast and efficient decision, thinking about their family. In a world full of blockbusters in activities, we are the Netflix ",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 14,
+        "enterprise_type_name": "Media"
+      }
+    },
+    {
+      "id": 26,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Kappo Bike",
+      "photo": null,
+      "description": "Kappo Bike is a platform that helps cities to increase the urban bicycle usage worldwide through gamification and safety navigation for citizens, wellness & CSR for companies and giving cyclists insight and predictive analytics for governments, enabling better planning and higher return on urban infrastructure investments.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 19,
+        "enterprise_type_name": "Smart City"
+      }
+    },
+    {
+      "id": 28,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "La Panería",
+      "photo": null,
+      "description": "I´m Florencia, a engineer and baker, and together with Constanza expert in gastronomy, we are the inventors and innovators that we have come to revolutionize the bakery market in Chile and in the rest of the world. We believe that it is a millennial product that has suffered a very low level of innovation and therefore we add in the process different vegetables, fruits, species, and everything you can imagine, to give new properties, flavors and colors to a product so consumed Like bread and also in a practical format!  Today in restaurants, cafes, hotels, airlines and even in your home you find the same thing; Traditional bread. La Panería breaks that concept, being innovative in the colors, flavors and properties, since it offers a product in which it integrates different vegetables, fruits and species, such as; Betarraga, Zapallo, Figs, Tomatoes, Nuts, Seeds, among many others in a frozen pre-baked format that allows you to enjoy a freshly baked gourmet bread in 8 minutes.  We create breads from Beet / Sesame, Pumpkin / Amapolas, Fig / Nut, Tomato / Basil , Wine. Without a doubt, cold technology is fundamental in our business. All our products are distributed with cold chain",
+      "city": "Peumo 211, Vitacura, Santiago, Chile",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 9,
+        "enterprise_type_name": "Food"
+      }
+    },
+    {
+      "id": 29,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Matchetune SpA",
+      "photo": null,
+      "description": "Matchetune is a word-game. \n\nMachitún (Mapuche word): sacred spirit healing ceremony practiced for thousands of years in Rukas.\n\nMatchetune (2 English words): Match and Tune.\n\nWe want to match with each other, with ourselves and with nature.\n\n…And to make fine-tuning with First Nations medicine and Worldview.\n",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 23,
+        "enterprise_type_name": "Tourism"
+      }
+    },
+    {
+      "id": 30,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "MercadoBirus.com",
+      "photo": null,
+      "description": "We believe that the world would be a better place to live in, if more companies were purpose-driven companies. There is a global trend of purpose-driven companies, aiming to solve a social and/or environmental challenges through their business. There’s also a growing number of consumers declaring to be “conscious” and wanting to know what they are consuming and which are the companies behind the products and services they prefer. Finally, these consumers are using more and more e-commerce to buy their products and services. The problem is that purpose-driven companies and conscious consumers don’t have a common place to find each other. BirusMarket.com is the online platform that allows conscious consumers, not only to find and get to know these purpose-driven companies, but also to buy their products and services. BirusMarket.com business model considers incomes from sales fee.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 5,
+        "enterprise_type_name": "Ecommerce"
+      }
+    },
+    {
+      "id": 31,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Mineral Forecast",
+      "photo": null,
+      "description": "What if you could reduce cost and increase the probability of discoveries in mining exploration? In Mineral Forecast we do that by applying Artificial Intelligence algorithms, which enables the integration of information, identifying high probability areas of mineralization and optimize drill-holes campaigns, the main driver of cost in the mining exploration business. ",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 15,
+        "enterprise_type_name": "Mining"
+      }
+    },
+    {
+      "id": 32,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "NexAtlas",
+      "photo": null,
+      "description": "NexAtlas develops a \"Google Maps for aviation\" application for private and business aviation pilots. It considerably facilitates access and handling of the most important flight planning and air navigation related information.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 2,
+        "enterprise_type_name": "Aviation"
+      }
+    },
+    {
+      "id": 34,
+      "email_enterprise": "",
+      "facebook": "",
+      "twitter": "",
+      "linkedin": "",
+      "phone": "",
+      "own_enterprise": false,
+      "enterprise_name": "Orand / Impresee",
+      "photo": "/uploads/enterprise/photo/34/americamg.png",
+      "description": "Impresee allows your e-commerce customers to find the products they want, whenever they want, thanks to its revolutionary search technology that uses photos, sketches and text. Finding products with Impresee is easy and fun, whether it is a carpet seen at a friend's house or a special lamp they found really attractive. The cloud based API offered by Impresee allows any retail business to use this advanced search technology in its on-line stores, along with a data analysis system for a better understanding of the behavior and preferences of its customers. ",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 5,
+        "enterprise_type_name": "Ecommerce"
+      }
+    },
+    {
+      "id": 35,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Paradigma Ltda",
+      "photo": null,
+      "description": "PARADIGMA Ltda. has committed itself to deliver complete Solutions for agents and final consumers with the desire to promote the viability of the Financial Inclusion and building of assets among low-income individuals, small firms and their families on a large scale with Mobile devices, Computers, the Internet cloud, and the trust that brings the emergent technology Blockchain.",
+      "city": "Las Condes",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 8,
+        "enterprise_type_name": "Fintech"
+      }
+    },
+    {
+      "id": 37,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Petark",
+      "photo": null,
+      "description": "Petark is a revolutionary PET regeneration technology (PolyEthylene Terephthalate, the material bottles are made of). Used PET is transformed into pristine PET, and it happens with minimum contamination and the lowest costs in the market by so far. UPC patent is in progress and one machine already working in Chile.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 4,
+        "enterprise_type_name": "Eco"
+      }
+    },
+    {
+      "id": 38,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Plantsss",
+      "photo": null,
+      "description": "\"Plantsss is the Spotify of plants\". Know, value and learn about the plants in your environment in a Simple, Specific & Sexy way. Ecological Botanical Radar How Plantsss are you? Download free Plantsss ",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 3,
+        "enterprise_type_name": "Biotech"
+      }
+    },
+    {
+      "id": 40,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Proyecon Ltda",
+      "photo": null,
+      "description": "We are a Chilean company that starts operations in 2007 in the area of ​​Information Technology.  We are expert consultants in Technology that from a needs analysis of your company we plan its development.  We provide professional services of engineering, support and implementation systems; Integration of Software and Hardware; And Sale of ICT Products for public and private companies.  Our values ​​are based on ethical and responsible behavior in the individual and organizational, we respect the corporate cultures of our clients and we take care of our personnel developing them in continuous form.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 22,
+        "enterprise_type_name": "Technology"
+      }
+    },
+    {
+      "id": 41,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "ROCKETPIN SPA",
+      "photo": null,
+      "description": "RocketPin is a mobile workforce able to provide business information through crowdsourcing. It works very simple. Companies need business information from their points of sale. ",
+      "city": "SANTIAGO",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 42,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Rukai Alimentos",
+      "photo": null,
+      "description": "Rukai Alimentos produces both heatlhy and sustainable food using the remanings (stems, leaves and seeds) of fruits and vegetables, wich weren’t sold in open markets and those who couldn't get into the markets. This proccess is positively impacting the environment by preventing these foods from being organic waste by using them before this. Rukai collects these discarded remainings, fruits and vegetables adding value to these by turning them into healthy snacks of highly nutritional value,.  ",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 9,
+        "enterprise_type_name": "Food"
+      }
+    },
+    {
+      "id": 44,
+      "email_enterprise": "",
+      "facebook": "",
+      "twitter": "",
+      "linkedin": "",
+      "phone": "",
+      "own_enterprise": false,
+      "enterprise_name": "SIMA Project",
+      "photo": "/uploads/enterprise/photo/44/mountains_sky_sunset_peaks_97149_1920x1080.jpg",
+      "description": "Urbanatika is a socio-environmental company with economic impact, creator of the agro-urban industry. We want to involve people in the processes of healthy eating, recycling and reuse of organic waste and the creation of citizen green areas. With this we are creating smarter cities from the people and at the same time the forest city.  Urbanatika, Agro-Urban Industry",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 20,
+        "enterprise_type_name": "Social"
+      }
+    },
+    {
+      "id": 46,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "SmartBridge",
+      "photo": null,
+      "description": "We use the brainpower of the world's top oncologists to improve health outcomes for cancer patients.  We are the world’s first on-demand interactive digital platform that connects top oncologists with patients from around the world. We provide same-day answers, next-day phone consults and expert second opinions.  ",
+      "city": "Providencia",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 11,
+        "enterprise_type_name": "Health"
+      }
+    },
+    {
+      "id": 47,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "SolarBare",
+      "photo": null,
+      "description": "Urbanatika is a socio-environmental company with economic impact, creator of the agro-urban industry. We want to involve people in the processes of healthy eating, recycling and reuse of organic waste and the creation of citizen green areas. With this we are creating smarter cities from the people and at the same time the forest city.  Urbanatika, Agro-Urban Industry",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 4,
+        "enterprise_type_name": "Eco"
+      }
+    },
+    {
+      "id": 48,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Sosmart Labs",
+      "photo": null,
+      "description": "Sosmart Labs its a technology company developing top notch products. Here our products:  SOSmart app: Automatic car crash detection and notification just using the internal sensors of a typical smartphone. Phone sends the location using GPS to emergency services reducing rescue time and saving lives(www.sosmartapp.com)  Momo: Momo is a Phone-GPS-Watch specially designed for kids. Parents can call, send messages, check the location of their kids at any moment and more just using our mobile App. (www.soymomo.com)  Dug:  Dug its a Phone-GPS-Collar for pets. Owners can call, check the location of their pets at any moment and see if their pets need more walking just by using our mobile App. (www.soymomo.com)  Old Momo(In development): Same as Momo but oriented to elders.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 12,
+        "enterprise_type_name": "IOT"
+      }
+    },
+    {
+      "id": 49,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Telediagnosticos",
+      "photo": null,
+      "description": "DART by teledx.org is a cloud-based software that aims to automatedly detect the signs of retina diseases in digital images using artificial intelligence to prevent them in early stages. This allows an increase of healthcare system’s coverage to tackle the most common cause of blindness in working-age population.",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 11,
+        "enterprise_type_name": "Health"
+      }
+    },
+    {
+      "id": 50,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "The Copper Company",
+      "photo": null,
+      "description": "The Copper Company is an evolution textile company, through I+d have achieved multi-purpose textiles that integrate antibacterial copper with technical and inteligent fiber yarn with nanotechnology finishing to promote health and wellness being of users. Such us fabrics that incorporate properties anti bacterial, anti mosquitos, vitamins, photoluminiscence and flame retardant among others. We are a multidsciplinary group of Fashion and textile designers, chemical bio technology engineers, infectologist, entomologists, coaching and comercials specialized in e-commerce and retail businesses. ",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 7,
+        "enterprise_type_name": "Fashion"
+      }
+    },
+    {
+      "id": 53,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "TREND GROUP AMERICA SPA",
+      "photo": null,
+      "description": "Trend Group America provide SaaS solutions. Our team is composed by 20 people, from different backgrounds, witch have in commun the passion to innovate.     Our more scalable solutions is called G-Leads, Intelligent CRM designed to optimized sales from leads generated from different channels. It centralize, tracks, categorizes and alerts managers so they can focus their time and effort on leads that are more likely to buy into their projects.",
+      "city": "SANTIAGO",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 17,
+        "enterprise_type_name": "Real Estate"
+      }
+    },
+    {
+      "id": 55,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "urbanatika",
+      "photo": null,
+      "description": "Urbanatika is a socio-environmental company with economic impact, creator of the agro-urban industry. We want to involve people in the processes of healthy eating, recycling and reuse of organic waste and the creation of citizen green areas. With this we are creating smarter cities from the people and at the same time the forest city.  Urbanatika, Agro-Urban Industry",
+      "city": "santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 1,
+        "enterprise_type_name": "Agro"
+      }
+    },
+    {
+      "id": 56,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "VACuCh",
+      "photo": null,
+      "description": "Committed to investigation and development, VACuCh is creating innovative antibacterial copper-infused products crucial to the dairy industry. Our top quality milk liners successfully protect the wellbeing of cattle while cutting costs and increasing production for the agriculture industry. ",
+      "city": "Santiago",
+      "country": "Chile",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 16,
+        "enterprise_type_name": "Products"
+      }
+    },
+    {
+      "id": 58,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "PANTUSS SRL",
+      "photo": null,
+      "description": "Pantuss’ indoor shoes signature is the introduction of a great new concept. How? Their innovative thermo-aromatic insoles are filled with lavender flowers and flax seeds. At Pantuss, thermo-aromatic means that the flax seeds stand as the thermal component that retains the desired temperature (being both hot or cold) while the lavender flowers offer their characteristic fresh aroma.  Both of them, combined, provide Pantuss’ uniqueness that naturally takes warmth and relaxation into a whole new level of pleasure!",
+      "city": "CABA",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 16,
+        "enterprise_type_name": "Products"
+      }
+    },
+    {
+      "id": 60,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "ProApp",
+      "photo": null,
+      "description": "ProApp was born to solve the problem of excessive consultation of experts and professionals, valuing and monetizing the responses they issue, allowing you to charge for what before They did it for free, also achieving the unnecessary reduction of annoying and nonsensical queries. ProApp allows users who have previously downloaded and free of charge app stores, whether AppStore or Google play, to connect with each other, ask a specialist and the specialist respond by monetizing and achieving significant monthly income for those queries Answered to term, ProApp does not have a directory of professionals in different areas, but the specialist himself tells his client that the communication between them is going to be by the ProApp platform. We want to become the preferred channel for professional communications between specialists and consultants.",
+      "city": "Olivos",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 61,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Wuabi",
+      "photo": null,
+      "description": "Crowdfunding platform for finding out, choosing and investing in agribusiness Aspiring to funnel middle class savings into the real economy and fomenting financial inclusion of producers, we believe collaborative economy is the path towards a more equitable world. Our vision consist on fields without borders and at everyone's reach. ",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 8,
+        "enterprise_type_name": "Fintech"
+      }
+    },
+    {
+      "id": 62,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Patagoniart GS",
+      "photo": null,
+      "description": "Patagoniart is an independant game development and publishing studio. Established in 2014 in the city of Mar del Plata, providing high quality videogames and virtual reallity experiences to the digital international market.",
+      "city": "Mar del Plata",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 10,
+        "enterprise_type_name": "Games"
+      }
+    },
+    {
+      "id": 63,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "CINVA",
+      "photo": null,
+      "description": "CINVA offers a permanent monitoring service for laboratories, to control variables like temperature, with on-line alerts, secure registration with reliable reports, with the objective of guaranteeing standards, reducing losses and accompany process improvement. The system has been proved and validated for first level companies in Argentina, like Pfizer and Danone. ",
+      "city": "Flores",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 11,
+        "enterprise_type_name": "Health"
+      }
+    },
+    {
+      "id": 64,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "SuperGraph",
+      "photo": null,
+      "description": "A news interfase that adapt itself to the venue where it is being watched. Moreover, the owners can use the ads shown in the screen for their own products, so they can sell more. SuperGraph can do 24/7 news with a tenth of a news channel staff. And no anchors at all. ",
+      "city": "Vicente Lopez",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 27,
+        "enterprise_type_name": "Digital Media"
+      }
+    },
+    {
+      "id": 65,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Parkinalot",
+      "photo": null,
+      "description": "Changing the way people park in the City by letting them help and loan each other. ",
+      "city": "Capital federal",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 26,
+        "enterprise_type_name": "C2C"
+      }
+    },
+    {
+      "id": 66,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Carpoolear+",
+      "photo": null,
+      "description": "Carpooling platform, personalized for every customer. Allows members of a same organization share their commutes!",
+      "city": "Rosario",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 67,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "AB Project",
+      "photo": null,
+      "description": "Our mission is provide an easiest way to do business on internet to our customers. We are a digital marketing agency, we integrate “digital design”, “communication” and “advertising”, offering solutions for each stage of the sales cycle.",
+      "city": "Ciudad Autónoma de Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 27,
+        "enterprise_type_name": "Digital Media"
+      }
+    },
+    {
+      "id": 68,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Appnobis",
+      "photo": null,
+      "description": "Appnobis is a suite of management apps which aim to reduce operational costs, speed up processes, improve traceability and eliminate organization's environmental footprint.   Find out what can a mobile app do for your business? ",
+      "city": "Nuñez",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 39,
+        "enterprise_type_name": "Mobile"
+      }
+    },
+    {
+      "id": 69,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Pago Rural",
+      "photo": null,
+      "description": "PAGO RURAL is an agile non-banking “lend-n-pay” technology platform that allows farmers pay for seeds, ag-chemicals, fertilizers and other inputs in a simple way. By leveraging a well-integrated solution - that enhances technology - and well-structured lending products, PAGO RURAL aligns incentives within the value chain. It’s a win-win solution for farmers and suppliers.",
+      "city": "Ciudad de Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 8,
+        "enterprise_type_name": "Fintech"
+      }
+    },
+    {
+      "id": 70,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "FC Bola",
+      "photo": null,
+      "description": "FC Bola is new brand of Football Balls that pursue a social purpose. We give football balls in impoverished communities. For each ball we sell, we give back another one.  What we sell is not only a ball, it’s a concept: get involved. Play with Bola and everybody can play.",
+      "city": "CABA",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 6,
+        "enterprise_type_name": "Education"
+      }
+    },
+    {
+      "id": 71,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Betrack",
+      "photo": null,
+      "description": "How bad do you feel when your crafted beer served at the bar doesn't really taste as you expected? How bad do you feel when the bar doesn't even have your favorite beer? Betrack is the ultimate technological solution to the distribution of assets, and because we also love beer, we have developed a product to optimize the use of beer barrels/kegs in small, medium and large scale. Cheers to us!",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 72,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Arqlite",
+      "photo": null,
+      "description": "Arqlite turns plastic waste into value. Through our proprietary process, we provide an innovative recycling service to large manufacturers and cities, transforming their 'non-recyclable' plastic waste into an artificial stone than can be used as a replacement for quarry rock in concrete.",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 4,
+        "enterprise_type_name": "Eco"
+      }
+    },
+    {
+      "id": 73,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Pandora Cine",
+      "photo": null,
+      "description": "Pandora Cine, is an innovation company created to improve the workflow of filmmakers. Pandora DSLR Optimizer is our flagship product, that improves the audio and video quality on DSLRs & Mirrorless cameras used for filmmaking. Our design allows to attach any accessories created by us or by any user from our Online 3D Modeling App, making Pandora one of the first collaborative products in the world. ",
+      "city": "CABA",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 75,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Queryapp",
+      "photo": null,
+      "description": "Query es una app que ayuda empresarios, a consultar a sus clientes, sobre su experiencia de consumo. A cambio, el cliente recibe un beneficio. Observamos que no siempre hay una correcta percepción sobre la experiencia de los clientes y desarrollamos una solución para controlar objetivamente este importante aspecto del negocio.  ",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 39,
+        "enterprise_type_name": "Mobile"
+      }
+    },
+    {
+      "id": 78,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Parkerilla / MOVR",
+      "photo": null,
+      "description": "Parkerilla is a media and tech company based in Argentina and founded in 2015. During this years we have partnered up with top talent developers, artists and film directors to give the world accesible top class stories, experiences and tech solutions. ",
+      "city": "Capital Federal",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 48,
+        "enterprise_type_name": "Virtual Reality"
+      }
+    },
+    {
+      "id": 79,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "vacavaliente",
+      "photo": null,
+      "description": "vacavaliente   A Top Global Brand synonymous with Design   Huge Vision. Think Moleskine, MoMa, MUJI… think vacavaliente   We create recycled leather objects that inspire and celebrate a more creative and functional lifestyle.  + 1.000.000 products sold in more than 50 countries  We know the players. We know the game.",
+      "city": "CABA",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 44,
+        "enterprise_type_name": "Sales"
+      }
+    },
+    {
+      "id": 81,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Celteeka Software",
+      "photo": null,
+      "description": "CruiseERP, Celteeka's flagship product, is a Cloud-based business management software solution targeting the micro and small businesses market. The goal is to become the Go-To solution similar to what SAP has achieved in the enterprise market",
+      "city": "Capital Federal",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 83,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Naxtcommerce",
+      "photo": null,
+      "description": "E-commerce and marketing online services for SMEs. We implement a methodology through which an online sales channel is developed to satisfy our customers, providing them with a development, design and planning team.  Our methodology allows us to offer a complete service at a very competitive cost.",
+      "city": "Ciudad Autonoma de Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 5,
+        "enterprise_type_name": "Ecommerce"
+      }
+    },
+    {
+      "id": 84,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Terapia Point",
+      "photo": null,
+      "description": "Terapia Point provides top quality psychotherapy to developed countries, at a fraction of the cost. We achieve that by leveraging Argentinas enormous oversupply of psychologists.",
+      "city": "Ciudad Autónoma de Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 11,
+        "enterprise_type_name": "Health"
+      }
+    },
+    {
+      "id": 86,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Estilea.com",
+      "photo": null,
+      "description": "We are a professional beauty BTB & BTC ecommerce. We have a disruptive business model that will change the way products are sold in the professional beauty industry, benefiting brands, salon professionals, and retail consumers.",
+      "city": "San Isidro",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 5,
+        "enterprise_type_name": "Ecommerce"
+      }
+    },
+    {
+      "id": 87,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "JAU® CULTURA",
+      "photo": null,
+      "description": "SoL - The first Latin American Music Industry Network. ",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 27,
+        "enterprise_type_name": "Digital Media"
+      }
+    },
+    {
+      "id": 88,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "RogerThat",
+      "photo": null,
+      "description": "We explain simple what it is difficult, knowing that the right information in the right time may generate a unique solution. We are doing the next Netflix of health information and remotely rehabilitation programs. Through an App, we are generating animated content such as First Aid Guide or Knee Rehabilitation Program, where a company can have all this accurate easy to learning content and educate their workforce or a health insurance company wants to replace their traditional physiotherapy by remotely rehabilitation.",
+      "city": "C.A.B.A.",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 11,
+        "enterprise_type_name": "Health"
+      }
+    },
+    {
+      "id": 89,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Dibago",
+      "photo": null,
+      "description": "Dibago is a social enterprise that helps to develop products with social and environmental impact. It builds and implements programs, projects, entrepreneurship initiatives, and social enterprises with environmental commitment. ",
+      "city": "CABA",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 16,
+        "enterprise_type_name": "Products"
+      }
+    },
+    {
+      "id": 90,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Hablando con Julis",
+      "photo": null,
+      "description": "HCJ (Speaking with Julis) is the solution for the communication of people with speech, reading and writing difficulties. It is the way for any person to communicate with anyone, anywhere, even if they  are unable to speak; and is the way for any individual to read and write even if they don't know how to do it.",
+      "city": "Bogota",
+      "country": "Colombia",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 6,
+        "enterprise_type_name": "Education"
+      }
+    },
+    {
+      "id": 91,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Talentoom.com",
+      "photo": null,
+      "description": "Talentoom is a web platform where users can show their talent and innovative ideas to compete against other users in the same theme of interest. The performers will upload a video (also pictures or text ) and ask all their contacts to vote for them. The contestant that gathers the greater amount of votes win the prize given by the sponsors of the competition.",
+      "city": "CABA",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 27,
+        "enterprise_type_name": "Digital Media"
+      }
+    },
+    {
+      "id": 93,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Theia AR",
+      "photo": null,
+      "description": "Theia AR is a company dedicated to change how your interact with reality through the use of augmented reality applications. We are developing solutions for high impact industries like advertisement, real state, manufacturing, retail and tourism. Join us and see why we are changing the way you see the world!",
+      "city": "Rosario",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 48,
+        "enterprise_type_name": "Virtual Reality"
+      }
+    },
+    {
+      "id": 94,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Arwind Energy SA",
+      "photo": null,
+      "description": "ArWind Energy  is an electric power generation company, we are working since 2010. Our goal is to produce electricity efficiently, in large volumes, in a sustainable manner, protecting the environment and at competitive costs. To do this, we have researched and developed new technologies for generation and storage energy.",
+      "city": "Rosario",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 4,
+        "enterprise_type_name": "Eco"
+      }
+    },
+    {
+      "id": 95,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Connexon Global Networks Ltd",
+      "photo": null,
+      "description": "The objective of our entrepreneurship is collaborate with the technification of Biosciences through international trade. We seek to take advantage of the installed capacity in the production of technology for laboratories and to facilitate two-way exchange between the two countries. We want to stimulate creativity and production in small and medium industry in the Bisector through competition.",
+      "city": "London",
+      "country": "United Kingdom",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 42,
+        "enterprise_type_name": "Research"
+      }
+    },
+    {
+      "id": 96,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "No Napp",
+      "photo": null,
+      "description": "CheckOut is the mobile app that will make from the whole buying process a very simple and kind experience. Check and pay the bill, book a restaurant's table, watch all sort of store's catalogues, avoid queues in the supermarket, quick checkout at a hotel, etc. It's an easy self-serve app hub for all commerces.",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 44,
+        "enterprise_type_name": "Sales"
+      }
+    },
+    {
+      "id": 97,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Dynami",
+      "photo": null,
+      "description": "Dynami develops customizable ultra-thin lithium battery engineering solutions for thin and flexible Internet of Things, medical and wearable devices, that can't fit a volumetric, rigid battery. Dynami leverages regional availability of lithium, research knowledge and applied experience to create production processes and technology that are transferable to the clients.   lithium@dynami-battery.com",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 4,
+        "enterprise_type_name": "Eco"
+      }
+    },
+    {
+      "id": 98,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Booteka",
+      "photo": null,
+      "description": "Booteka is a platform that allows the community the free exchange of books following certain guidelines. Users can upload books that they are willing to give and by doing so, have access to receive books from others. This initiative is within the so-called Sharing Economy where money is not the means of exchange",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 12,
+        "enterprise_type_name": "IOT"
+      }
+    },
+    {
+      "id": 99,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Bubba Argentina SA",
+      "photo": null,
+      "description": "Bubba was created by the argentine , over 10 years ago. All objectives have been accomplished first, by the development of high quality merchandising, which had great design. This generated a bond between the character and the kids. For all this, we think that the series distribution through all Latin America, hand in hand with Disney, is the best strategy, making this license a great success in the region and in all the world.  ",
+      "city": "Florida",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 27,
+        "enterprise_type_name": "Digital Media"
+      }
+    },
+    {
+      "id": 102,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "MKTxDatos ",
+      "photo": null,
+      "description": "Using unification of all clients databases plus all public free data from social media we predict the behavior of the digital communities and create the A.I. to auto-respond (we pick up all local ways to respond and from the community and get the ADN of the right communication to answer all the consults that the digital communities creates dealy)",
+      "city": "buenos aires, olivos",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 27,
+        "enterprise_type_name": "Digital Media"
+      }
+    },
+    {
+      "id": 103,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Maria Florencia Giulio",
+      "photo": null,
+      "description": "\"Madreselva\" is a cultural place where artists create and present their projects.",
+      "city": "San telmo- CABA",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 25,
+        "enterprise_type_name": "Arts"
+      }
+    },
+    {
+      "id": 104,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Poder Volar",
+      "photo": null,
+      "description": "Poder Volar has developed a widely successful method to overcome the fear of flying by plane, which also helps all passengers to improve the quality of their flights, in the formats of face-to-face and online courses, both individually and for groups.\nHaving obtained very good results throughout our 22-year experience in Argentina, we aim to develop our business internationally, creating new didactic tools and training new instructors in other countries of Europe and Latin America for the selection, and possibly for the assistance, of interested patients (who are classified according to the level of complexity of their anxiety.)\nDifferent factors create a new opportunity for the growth of our business: the increase of Low Costs, the number of patients from all over the world, and, also, the constant improvements regarding connectivity and digital tools, such as the different online videoconferencing systems, the growth of mobile phone applications, etc.\n",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 105,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "LivePanel",
+      "photo": null,
+      "description": "A 40 years old, 40 billon dollar industry is being finally disrupted! LivePanel brings the missing link in Market Research and Public Opinion bringing answers faster and more accurately than any existing polling system. Combining IA with powerful mobile technology, plus FinTech-sourced innovations, you can get people feelings about almost everything in minutes!",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 42,
+        "enterprise_type_name": "Research"
+      }
+    },
+    {
+      "id": 106,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Bandit",
+      "photo": null,
+      "description": "www.bandit.io wants to redefine the recruitment process; we are born when digital transformation is in the agenda of every company and the digital talent has turned to be a crucial key for any industry that wants to innovate. We offer relevant career opportunities and strong candidates in an agile and transparent process.  We focus on 4 fundamental pillars:  Technology: Multi Platform and machine learning to improve process, reduce time and improve matching.   White Collar: Specialized in the digital vertical and high skill profiles.  Time efficiency: We eliminate the guesswork and apply lean recruiting, reducing hiring times.  Flexibility: Unbiased coaching evaluating companies and accompanying candidates on every phase of their career. ",
+      "city": "Capital Federal",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 35,
+        "enterprise_type_name": "HR"
+      }
+    },
+    {
+      "id": 107,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "ATLAS Smart Cities",
+      "photo": null,
+      "description": "We provide strategic consulting services tailored to the needs and environment of our customers. We provide solutions to governments and businesses with an integrated and innovative view for the development of smart cities look.",
+      "city": "Capital Federal",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 46,
+        "enterprise_type_name": "Smart Cities"
+      }
+    },
+    {
+      "id": 108,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Shopear",
+      "photo": null,
+      "description": "Shopear is an integral platform for Social Commerce. Our mission is to connect people, products and conversations in a unified experience to reinvent the way we buy Online and Offline.  We focus on developing technology that allows intelligent recommendations based on the social graph of the user and their personal interests (collected and analyzed based on the behavioral information that their profiles in other social networks such as Facebook and Twitter). Shopear, as an integral platform, comprises a context in which users, brands and products interact directly and without intermediaries, thus facilitating the exchange and discovery of content specially cured by the people who interest us.",
+      "city": "Capital Federal",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 27,
+        "enterprise_type_name": "Digital Media"
+      }
+    },
+    {
+      "id": 109,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Belatrix Software",
+      "photo": null,
+      "description": "BELATRIX Software is one of Latin America’s foremost agile innovators and application designers. Leveraging the benefits of the \"nearshore model\", Belatrix helps clients achieve the full impact of their R&D and product development capabilities by developing high quality, innovative software, QA, testing and mobile solutions. Applying Agile methodologies and Design Thinking, the company reduces clients' time to market by offering access to top global talent, applied innovation, and industry best practices. Belatrix’s clients include both established, well-known companies like Adobe and Disney, as well as emerging, venture backed firms.  The company is both a Microsoft and Oracle Gold Partner.  Based in South America, Belarix has three delivery centers in Argentina (Buenos Aires and Mendoza), one in Peru (Lima) and is just opening one in Bogota (Colombia). It has commercial offices in Florida, San Francisco, and New York.  Belatrix Software offers a range of services:  1. Software Product Development 2. Mobile Development 3. Software Architecture 4. Software Innovation 5. Cloud Software Development 6. Software Testing 7. User Experience 8. Big Data  ",
+      "city": "Mendoza",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 113,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "minimal cine",
+      "photo": null,
+      "description": "We are a production company, we manage artists, directors, writers and producers, and work closely with them to achieve their goals, whether in feature films, commercials, music videos, or brand integrated content. We rely on our experience in every area of the changing media landscape. Alongside our distinguished clients, we continue to grow our reputation in the entertainment and advertising industries. ",
+      "city": "capital federal",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 44,
+        "enterprise_type_name": "Sales"
+      }
+    },
+    {
+      "id": 114,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Pactanda",
+      "photo": null,
+      "description": "Pactanda is the go-to place for complaining. - Leveraging the power of social networks with one-click complaining - Allowing companies to change negative noise into positive - Providing incentives to both parties to agree fair solutions faster - Ultimately creating an ecosystem of positive relationships that drives collaboration  Problem solving has never been this frustration-free and even fun!  Pactanda is automated technology that facilitates complaining online for faster and better results. We use gamification to channel emotions and provide incentives for both sides of a conflict to agree to fair proposals, making complaining more efficient, less costly and frustration free. Pactanda is unbiased and company friendly generating loyalty and opportunities for up- and cross-selling for \"good\" companies. We change bad news on social media into positive news for those who treat their customers right.   Pactanda provides incentives to ensure conflicts between companies and their clients are resolved optimally. Pactanda charges companies for tools to revert negative social media noise to positive messaging, claims solved \"too late\", cross-company user, problem and solution profiling for marketing and customer service, and optimisation tools to minimise claims management and resolution cost/time.  Pactanda makes complaining and problem resolution better. And that’s only the beginning.",
+      "city": "Capital Federal ",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 5,
+        "enterprise_type_name": "Ecommerce"
+      }
+    },
+    {
+      "id": 115,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "viaedu",
+      "photo": null,
+      "description": " viaedu brings together new technologies and old techniques into a modern, intuitive and fun platform that redefines the way kids choose what and were to study. We digitalized a traditional vocational guidance process to recommend careers and institutions that match students profile, consolidating all the information needed to make the best decision. ",
+      "city": "Capital Federal",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 6,
+        "enterprise_type_name": "Education"
+      }
+    },
+    {
+      "id": 116,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "JardinYa! - www.jardinya.com",
+      "photo": null,
+      "description": "JardinYa! is the first online platform in Latin America for the contracting of landscaping and garden design, which through its innovative method of simple 4 steps reduces the costs of designing a garden. Cost reduction allows, on the one hand, that landscaping ceases to be a luxury commodity to which few can access, and on the other the possibility of offering work opportunities for architects, agricultural engineers or people interested in a franchise. ",
+      "city": "Mendoza",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 118,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Conversa Lab",
+      "photo": null,
+      "description": "We combine efficient channels, work flows and artificial intelligence to enable efficient and frustration free interactions between organisations and people.  We work with the customer analysing their current interactions and device cost efficient solutions that leverages on automation and bots. We believe in delegating from a self service workflow, to an artificial intelligence brain to an agent based on the uniqueness of the request rather than the type of request (post sale, presale, etc.)  We are platform agnostic and have projects on which the users interact on the web, messaging apps, proprietary platforms and even telephone.  Currently engaged (accepted proposal, running trials or in production) with Burger King Argentina, tuenti (fromTelefonica Group), Axa and the largest local consumer electronics manufacturer.  ",
+      "city": "Ciudad de Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 120,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "First Contact 3D",
+      "photo": null,
+      "description": "First Contact 3D is the first way to bring ultrasound techniques into the real 3D world. We transform the image of the baby into a corporeal piece and print a 3D model on biodegradable material with the real shape of the baby´s face.  A premier ultrasound technique that is inclusive of visually impaired people and their families. They will be able to touch the shape of their baby and feel their child just like non-blind people enjoy the view of an ultrasound on a screen. Their first contact before birth.",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 121,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "SmartHuman Project",
+      "photo": null,
+      "description": "We believe in cities with less pollution and individuals citizens taking part of that change. In SmartHuman we create an IoT sensor capable to monitor the air quality, temperature and other enviromental variables and put them online in real time. Every citizen is able to monitor and share their measures.   We aim people to use the stairs, walk or bike to work and measure that impact in real time, so they can improve their very own carbon footprint. ",
+      "city": "Buenos AIres",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 122,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "Crowdar",
+      "photo": null,
+      "description": "We help software development teams to increase the quality of their products by providing crowdsourced functional and automated testing services using agile methods ",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 21,
+        "enterprise_type_name": "Software"
+      }
+    },
+    {
+      "id": 123,
+      "email_enterprise": null,
+      "facebook": null,
+      "twitter": null,
+      "linkedin": null,
+      "phone": null,
+      "own_enterprise": false,
+      "enterprise_name": "GIIDEBA",
+      "photo": null,
+      "description": "Giideba works within the health sector. Conformed by professionals from multiple disciplines, it is oriented towards innovation and product development for problems without a definitive solution. From the test, research and experimentation we choose the felt as material to be introduced within the field.",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "value": 0,
+      "share_price": 5000,
+      "enterprise_type": {
+        "id": 11,
+        "enterprise_type_name": "Health"
+      }
+    }
+  ]
+}

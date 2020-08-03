@@ -1,0 +1,44 @@
+<resources>
+
+
+    <style name="Login" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/beige</item>
+        <item name="colorPrimary">@color/medium_pink</item>
+        <item name="colorPrimaryDark">@color/dark_beige</item>
+        <item name="colorAccent">@color/greeny_blue</item>
+        <item name="colorError">@color/faux_scarlet</item>
+    </style>
+
+    <style name="Enterprise" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/medium_pink</item>
+        <item name="colorPrimaryDark">@color/medium_pink</item>
+        <item name="colorAccent">@color/greeny_blue</item>
+        <item name="android:windowBackground">@color/beige</item>
+        <item name="android:textColorHint">@android:color/white</item>
+        <item name="searchViewStyle">@android:color/white</item>
+    </style>
+
+    <style name="Enterprise.Detail" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/medium_pink</item>
+        <item name="colorPrimaryDark">@color/medium_pink</item>
+        <item name="colorAccent">@color/greeny_blue</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColorHint">@android:color/white</item>
+        <item name="searchViewStyle">@android:color/white</item>
+    </style>
+
+    <style name="title">
+        <item name="android:textSize">28sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/night_blue</item>
+    </style>
+
+    <style name="subtitle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/charcoal_grey</item>
+    </style>
+
+</resources>

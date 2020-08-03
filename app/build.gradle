@@ -1,0 +1,111 @@
+apply plugin: 'com.android.application'
+
+project.ext {
+
+    daggerVersion = "2.20"
+    butterKnifeVersion = "10.1.0"
+    reactivexVersion = "3.0.0"
+    retrofit = "2.9.0"
+    gson = "2.8.5"
+    glide = "4.9.0"
+    lifecycle = "2.0.0"
+    dexter = "6.2.1"
+    shimmer = "0.5.0"
+
+}
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "com.guilherme.appempresas"
+        minSdkVersion 15
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    testOptions {
+        unitTests {
+            includeAndroidResources = true
+        }
+        testOptions {
+            unitTests.returnDefaultValues = true
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation 'com.google.android.material:material:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.0-rc1'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    implementation 'com.android.support:appcompat-v7:28'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-contrib:3.2.0'
+    androidTestImplementation 'androidx.test:core:1.2.0'
+    androidTestImplementation 'androidx.test:runner:1.2.0'
+    androidTestImplementation 'androidx.test:rules:1.2.0'
+    implementation 'com.android.support.test.espresso:espresso-idling-resource:3.0.2'
+    androidTestImplementation "com.android.support.test.espresso.idling:idling-concurrent:3.0.2"
+
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'androidx.test:core:1.2.0'
+    testImplementation "android.arch.core:core-testing:1.1.1"
+    testImplementation 'org.mockito:mockito-core:1.10.19'
+    testImplementation 'com.squareup.okhttp3:mockwebserver:3.14.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.0-rc1'
+    testImplementation 'junit:junit:4.12'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+
+
+    //Reactivex
+    implementation "io.reactivex.rxjava3:rxandroid:$project.reactivexVersion"
+    implementation "io.reactivex.rxjava3:rxjava:$project.reactivexVersion"
+
+    // Dagger core
+    annotationProcessor "com.google.dagger:dagger-compiler:$project.daggerVersion"
+    implementation "com.google.dagger:dagger:$project.daggerVersion"
+
+    //Dagger Android
+    annotationProcessor "com.google.dagger:dagger-android-processor:$project.daggerVersion"
+    implementation "com.google.dagger:dagger-android-support:$project.daggerVersion"
+    testAnnotationProcessor "com.google.dagger:dagger-compiler:$project.daggerVersion"
+    androidTestAnnotationProcessor "com.google.dagger:dagger-compiler:$project.daggerVersion"
+
+    //butter knife
+    annotationProcessor "com.jakewharton:butterknife-compiler:$project.butterKnifeVersion"
+    implementation "com.jakewharton:butterknife:$project.butterKnifeVersion"
+
+    //retrofit
+    implementation "com.squareup.retrofit2:retrofit:$project.retrofit"
+    implementation "com.squareup.retrofit2:adapter-rxjava3:$project.retrofit"
+    implementation "com.squareup.retrofit2:converter-gson:$project.retrofit"
+
+    //glide
+    implementation "com.github.bumptech.glide:glide:$project.glide"
+
+    //gson
+    implementation "com.google.code.gson:gson:$project.gson"
+
+    //dexter
+    implementation "com.karumi:dexter:$project.dexter"
+
+    //shimmer
+    implementation "com.facebook.shimmer:shimmer:$project.shimmer"
+
+
+
+}

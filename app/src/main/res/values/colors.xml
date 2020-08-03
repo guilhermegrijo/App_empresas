@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="greeny_blue">#57bbbc</color>
+    <color name="white">#ffffff</color>
+    <color name="medium_pink">#ee4c77</color>
+    <color name="charcoal_grey">#383743</color>
+    <color name="beige">#ebe9d7</color>
+    <color name="dark_beige">#9C9B90</color>
+    <color name="night_blue">#0d0430</color>
+    <color name="warm_grey">#8d8c8c</color>
+    <color name="faux_scarlet">#ff0f44</color>
+    <color name="placeholder_bg">#dddddd</color>
+</resources>
