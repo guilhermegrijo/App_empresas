@@ -12,10 +12,6 @@
 * SHIMMER: Ele permite criar uma skeleton screen de forma rápida, dando uma sensação de rapidez.
 * DEXTER: Simplifica a requisição de permissão de funcionalidades.
 
-
-# O que faria com mais tempo #
-Uma validação melhor do formúlario de Login e paginação para o resultado da busca.
-
 # Como executar #
 No android studio vá em VCS -> GIT -> Clone...
 em URL coloque https://guilhermegrijo@bitbucket.org/guilhermegrijo/empresas-android.git
